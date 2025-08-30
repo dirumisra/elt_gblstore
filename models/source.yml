@@ -1,0 +1,6 @@
+sources:
+  - name: snowflake
+    database: DEVDB
+    schema: DEVSCH
+    tables:
+      - name: gblstore
